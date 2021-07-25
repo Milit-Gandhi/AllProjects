@@ -14,6 +14,10 @@ This application uses user's phone Storage(i.e..,**SQLiteDataBase**) as its Data
 3) It use SQLiteDataBase i.e.., Phone Storage and no other external Database.
 4) Other Layouts And Widgets used are **RecyclerView, CardView, Custom Adapter, Splash Screen,LinearLayout**.
 ***
+## Link To Download .apk File
+https://github.com/Milit-Gandhi/Note-IT/blob/main/app-debug.apk
+
+***
 ## Preview
  <p align="center">
 <img src="https://github.com/Milit-Gandhi/Note-IT/blob/main/NOTE%20iT/img-1.png" width="250" height="500" />
